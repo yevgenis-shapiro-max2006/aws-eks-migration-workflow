@@ -21,5 +21,3 @@ resource "null_resource" "weaviate_ready" {
     EOT
   }
 }
-
-
