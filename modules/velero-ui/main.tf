@@ -9,3 +9,4 @@ resource "helm_release" "velero_ui" {
   wait    = true
   timeout = 300
 }
+
