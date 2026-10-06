@@ -15,7 +15,7 @@ variable "namespace" {
 variable "host" {
   description = "Hostname for ingress"
   type        = string
-  default     = "migration.appflex.io"
+  default     = "migration.crypterio.co"
 }
 
 variable "service_port" {
