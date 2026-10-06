@@ -1,5 +1,5 @@
 
-###  ---  Default Template  ---  ###
+###  ---  Migration Template  ---  ###
 aws_access_key_id     = "XXXXXXXXX"
 aws_secret_access_key = "XXXXXXXXXXXXXXXX"
 
