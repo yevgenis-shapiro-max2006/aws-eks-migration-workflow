@@ -1,8 +1,8 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ee73a6ea-3c21-40a4-a740-8472f9f70748" />
+
+<img width="1536" height="950" alt="image" src="https://github.com/user-attachments/assets/c9eb0ae7-b65b-4a1e-8f7a-829f233dcb4c" />
 
 
-
-## AWS | Backup and Restore ( Migration )  
+## AWS | Migration and Data Recovery  
 Migration is the process of moving applications, data, and infrastructure between environments with minimal downtime and preserved data integrity. In Kubernetes, tools like Velero are used to back up and restore cluster resources, enabling reliable workload transfer between clusters. MinIO is commonly used as an object storage backend to securely store Velero backups. The Velero UI provides a visual interface to monitor, manage, and restore backups easily during migration.
 
 
