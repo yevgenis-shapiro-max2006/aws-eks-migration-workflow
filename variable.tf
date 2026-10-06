@@ -21,3 +21,5 @@ variable "api_keys" {
   default     = ["dev-key-123"]
   description = "List of API keys for Weaviate authentication"
 }
+
+
